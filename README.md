@@ -1,4 +1,4 @@
-# Puneett Kr Verma
+# Puneet Verma
 ## Software Professional 📶
 Location : Pune, Maharashtra, India
 
