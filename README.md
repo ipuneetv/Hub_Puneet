@@ -3,8 +3,8 @@
 Location : India
 
 🔍 Specializing in :
-> Software Test Management
-> Digital Project Management
+> Software Test Management | 
+> Digital Project Management | 
 > Agile Methodology (Scrum Framework)
 
 🌟Experienced in :
