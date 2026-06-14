@@ -12,7 +12,8 @@ Location : India
 > International Roaming Testing (IREG, TADIG & Commercial Launches)
 
 🛠️ Tech Tools
+> Language - [Java] | 
 > Version Control System - [GIT Protocol]
-> Language - [Java]
+
 
 **Software, Hell Yeah!**
