@@ -8,7 +8,7 @@ Location : India
 > Agile Methodology (Scrum Framework)
 
 🌟Experienced in :
-> Core Telecom
+> Core Telecom | 
 > International Roaming Testing (IREG, TADIG & Commercial Launches)
 
 🛠️ Tech Tools
