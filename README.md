@@ -1,13 +1,14 @@
 # Puneet Verma
 ## Software Professional 📶
-Location : Pune, Maharashtra, India
+Location : India
 
 🔍 Specializing in :
-> Software Testing Delivery Management
+> Software Test Management
 > Digital Project Management
 > Agile Methodology (Scrum Framework)
 
-🌟Experience in :
+🌟Experienced in :
+> Core Telecom
 > International Roaming Testing (IREG, TADIG & Commercial Launches)
 
 🛠️ Tech Tools
